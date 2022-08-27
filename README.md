@@ -31,7 +31,12 @@
 ---
 
 ### 📫 Способы связи со мной:
-Можете написать на email который указан в профиле или по следующим ссылкам
+Можете написать на email который указан в профиле или написать мне в телеграм
 
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" height="40" align="center" alt="Telegram" title="telegram"/>](https://t.me/FantasticFox007)
+
+---
+
+### 🌐 Ссылка на портфолио:
+
 [<img src="https://cdn-icons-png.flaticon.com/512/3308/3308395.png" height="40em" align="center" alt="Portfolio" title="Portfolio"/>](https://fantasticfox91.github.io/myCV/)
