@@ -34,4 +34,4 @@
 Можете написать на email который указан в профиле или по следующим ссылкам
 
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" height="40" align="center" alt="Telegram" title="telegram"/>](https://t.me/FantasticFox007)
-[<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" height="40em" align="center" alt="Portfolio" title="Portfolio"/>](https://fantasticfox91.github.io/myCV/)
+[<img src="https://cdn-icons-png.flaticon.com/512/3308/3308395.png" height="40em" align="center" alt="Portfolio" title="Portfolio"/>](https://fantasticfox91.github.io/myCV/)
