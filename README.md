@@ -1,6 +1,6 @@
 <h1 align="center">Всем привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-### :woman_technologist: &nbsp;Немного о себе :
+### Немного о себе :
 
 Я Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
